@@ -47,7 +47,7 @@ FiveM için oyuncu odaklı sistemler ve etkileşimli paketler geliştiriyorum. H
 ## 📫 Bana Ulaş
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/zzen.g)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/senin-emirrakkocc_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/senin-emirakkocc_)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/emirakkoc)
 
 ---
